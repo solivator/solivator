@@ -20,7 +20,7 @@
     </td>
     <td width="45%" align="center" valign="top">
       <img
-        src="./travlr_immersive.webp"
+        src="travlr_immersive.webp?raw=1"
         alt="TRAVLR immersive globe and journey view"
         width="500"
       />
@@ -40,7 +40,7 @@
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="./borderframes_stack.webp"
+        src="borderframes_stack.webp?raw=1"
         alt="Borderframes modular physical frames"
         width="450"
       />
