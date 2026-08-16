@@ -1,5 +1,5 @@
 <p>
-  I build products for people &amp; design against the short-lived.
+  I build products for people &amp; design against the short-lived..
 </p>
 
 <p>&nbsp;</p>
